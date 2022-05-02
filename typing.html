@@ -2,6 +2,11 @@
 <html>
   <head>
     <script>
+      window.addEventListener("keydown",push_Keydown);
+      function push_Keydown(event){
+        let KeyCode = event.key;
+        document.getElementById("start").innerHTML = KeyCode + "を押しました"
+      }
     </script>
   </head>
   <body>
