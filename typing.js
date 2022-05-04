@@ -31,7 +31,7 @@ function gameStart(){
 function finish(){
   document.getElementById("japanese").innerHTML = "";
   document.getElementById("start").innerHTML = "";
-  document.getElementById("btn").style.visibility = "visible"
+  document.getElementById("btn").style.visibility = "visible";
 };
 
 function typing(){
