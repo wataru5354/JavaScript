@@ -15,7 +15,7 @@ function ready(){
 };
 
 function gameStart(){
-  let timeLimit = 10;
+  let timeLimit = 90;
   typing();
   let timeRead = timeLimit;
   let gameTimer = setInterval(function(){
@@ -38,7 +38,7 @@ function finish(){
 function typing(){
   const Q = ["ishinouenimo3nenn","aaiebakoiu","berurinnokabe","uousaou","keizokuhatikaranari","saisyusyokusaki","taihusekkintyu","puroguraminguwobenkyoutyu","namamuginamagomenamatamago","ikkyuunyukon","sushi","tekkukyanpu","onigiri","gya-!","ko-hi-bureiku","yujuhudan",
               "nihonnkokukenpou","amazonsyoppingu","merukari","rakuten","yu-tyu-ba-","tanjoubiomedetou!","oninoinumanisentaku","shinrigakuwosenkosuru","hayaokihasanmonnotoku","arubaitobosyutyu","kansaikokusaikukou","nantekotta","koukiatsu","saidaikouyakusu","ra-men","tenkiyoho","shiori",
-                "wareomou,yueniwareari","syonnenyo,taishiwoidake","saikokeieisekininsya","saiyuki","suisankanatoriumusuiyoeki","mikakuninhikobuttai","usotsukihadorobonohajimaridesu","nihonnosyutohatokyo","apurile-syonera-desu","modameda,kosansiyo","shitarayondemosinbunshi","uekarayondemo,shinbunshi",
+                "wareomou,yueniwareari","syonnenyo,taishiwoidake","saikokeieisekininsya","saiyuki","suisankanatoriumusuiyoeki","mikakuninhikobuttai","usotsukihadorobonohajimaridesu","nihonnosyutohatokyo","apurike-syonera-desu","modameda,kosansiyo","shitarayondemosinbunshi","uekarayondemo,shinbunshi",
                 "saikokyunoomotenashi","kannukokusaieigasai","syogaibutsukyoso","kyosesyuryo","kasejinsyurai","rodokijunho","kanzennensyo","yukyukyuka","hikarifaiba-","sekenkotai","soranooja","taionke","shinhakken","shinritesuto","mitinimayou","buyuden","kamakurabakuhu","zannensyo","gohantabeta?","tengokutojigoku"];
 
   const Q_j = ["石の上にも3年","ああ言えばこう言う","ベルリンの壁","右往左往","継続は力なり","再就職先","台風接近中","プラグラミングを勉強中","生麦生米生卵","一球入魂","寿司","テックキャンプ","おにぎり","ぎゃー!","コーヒーブレイク","優柔不断",
