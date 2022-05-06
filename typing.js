@@ -38,8 +38,8 @@ function finish(){
 function typing(){
   const Q = ["ishinouenimo3nenn","aaiebakoiu","berurinnokabe","uousaou","keizokuhatikaranari","saisyusyokusaki","taihusekkintyu","puroguraminguwobenkyoutyu","namamuginamagomenamatamago","ikkyuunyukon","sushi","tekkukyanpu","onigiri","gya-!","ko-hi-bureiku","yujuhudan",
               "nihonnkokukenpou","amazonsyoppingu","merukari","rakuten","yu-tyu-ba-","tanjoubiomedetou!","oninoinumanisentaku","shinrigakuwosenkosuru","hayaokihasanmonnotoku","arubaitobosyutyu","kansaikokusaikukou","nantekotta","koukiatsu","saidaikouyakusu","ra-men","tenkiyoho","shiori",
-                "wareomou,yueniwareari","syonnenyo,taishiwoidake","saikokeieisekininsya","saiyuki","suisankanatoriumusuiyoeki","mikakuninhikobuttai","usotsukihadorobonohajimaridesu","nihonnosyutohatokyo","apurike-syonera-desu","modameda,kosansiyo","shitarayondemosinbunshi","uekarayondemo,shinbunshi",
-                "saikokyunoomotenashi","kannukokusaieigasai","syogaibutsukyoso","kyosesyuryo","kasejinsyurai","rodokijunho","kanzennensyo","yukyukyuka","hikarifaiba-","sekenkotai","soranooja","taionke","shinhakken","shinritesuto","mitinimayou","buyuden","kamakurabakuhu","zannensyo","gohantabeta?","tengokutojigoku"];
+                "wareomou,yueniwareari","syonnenyo,taishiwoidake","saikokeieisekininsya","saiyuki","suisankanatoriumusuiyoeki","mikakuninhikobuttai","usotsukihadorobonohajimaridesu","nihonnosyutohatokyo","apurike-syonera-desu","modameda,kosansiyo","shitarayondemosinbunshi","uekarayondemoshinbunshi",
+                "saikokyunoomotenashi","kannukokusaieigasai","syogaibutsukyoso","kyosesyuryo","kasejinsyurai","rodokijunho","kanzennensyo","yukyukyuka","hikarifaiba-","sekenkotai","soranooja","dosokai","taionke","shinhakken","shinritesuto","mitinimayou","buyuden","kamakurabakuhu","zannensyo","gohantabeta?","tengokutojigoku"];
 
   const Q_j = ["石の上にも3年","ああ言えばこう言う","ベルリンの壁","右往左往","継続は力なり","再就職先","台風接近中","プラグラミングを勉強中","生麦生米生卵","一球入魂","寿司","テックキャンプ","おにぎり","ぎゃー!","コーヒーブレイク","優柔不断",
                   "日本国憲法","アマゾンショッピング","メルカリ","楽天","ユーチューバー","誕生日おめでとう!","鬼の居ぬ間に洗濯","心理学を専攻する","早起きは三文の徳","アルバイト募集中","関西国際空港","なんてこった","高気圧","最大公約数","ラーメン","天気予報","詩織",
